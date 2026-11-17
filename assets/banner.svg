@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Lisandro Bellomio · Eventos Masivos · Gobierno de la Ciudad de Buenos Aires">
+  <defs>
+    <clipPath id="card"><rect width="1280" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1280" height="300" fill="#FFFFFF"/>
+    <rect width="14" height="300" fill="#A3111B"/>
+    <rect x="0" y="292" width="1280" height="8" fill="#A3111B"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1279" height="299" rx="18" fill="none" stroke="#E6D3D4"/>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="72" y="118" font-size="58" font-weight="700" fill="#A3111B">Lisandro Bellomio</text>
+    <rect x="74" y="140" width="64" height="4" fill="#A3111B"/>
+    <text x="72" y="190" font-size="24" fill="#3A3A3A">Eventos Masivos · Gobierno de la Ciudad de Buenos Aires</text>
+    <text x="72" y="232" font-size="19" fill="#7A6A6B" letter-spacing="1.5">AUTOMATIZACIÓN DE PROCESOS · IA · PYTHON · GOOGLE WORKSPACE</text>
+  </g>
+
+  <!-- Motivo de calendario: semana a semana -->
+  <g transform="translate(900 56)">
+    <g fill="#F3E3E4">
+      <rect x="0"   y="0"   width="36" height="36" rx="7"/><rect x="48"  y="0"   width="36" height="36" rx="7"/><rect x="96"  y="0"   width="36" height="36" rx="7"/><rect x="144" y="0"   width="36" height="36" rx="7"/><rect x="192" y="0"   width="36" height="36" rx="7"/><rect x="240" y="0"   width="36" height="36" rx="7"/><rect x="288" y="0"   width="36" height="36" rx="7"/>
+      <rect x="0"   y="48"  width="36" height="36" rx="7"/><rect x="48"  y="48"  width="36" height="36" rx="7"/><rect x="96"  y="48"  width="36" height="36" rx="7"/><rect x="144" y="48"  width="36" height="36" rx="7"/><rect x="192" y="48"  width="36" height="36" rx="7"/><rect x="240" y="48"  width="36" height="36" rx="7"/><rect x="288" y="48"  width="36" height="36" rx="7"/>
+      <rect x="0"   y="96"  width="36" height="36" rx="7"/><rect x="48"  y="96"  width="36" height="36" rx="7"/><rect x="96"  y="96"  width="36" height="36" rx="7"/><rect x="144" y="96"  width="36" height="36" rx="7"/><rect x="192" y="96"  width="36" height="36" rx="7"/><rect x="240" y="96"  width="36" height="36" rx="7"/><rect x="288" y="96"  width="36" height="36" rx="7"/>
+      <rect x="0"   y="144" width="36" height="36" rx="7"/><rect x="48"  y="144" width="36" height="36" rx="7"/><rect x="96"  y="144" width="36" height="36" rx="7"/><rect x="144" y="144" width="36" height="36" rx="7"/><rect x="192" y="144" width="36" height="36" rx="7"/><rect x="240" y="144" width="36" height="36" rx="7"/><rect x="288" y="144" width="36" height="36" rx="7"/>
+    </g>
+    <g fill="#A3111B">
+      <rect x="144" y="0"   width="36" height="36" rx="7" opacity="0.35"/>
+      <rect x="240" y="0"   width="36" height="36" rx="7"/>
+      <rect x="288" y="0"   width="36" height="36" rx="7" opacity="0.6"/>
+      <rect x="48"  y="48"  width="36" height="36" rx="7" opacity="0.6"/>
+      <rect x="192" y="48"  width="36" height="36" rx="7" opacity="0.35"/>
+      <rect x="240" y="48"  width="36" height="36" rx="7"/>
+      <rect x="96"  y="96"  width="36" height="36" rx="7" opacity="0.35"/>
+      <rect x="240" y="96"  width="36" height="36" rx="7" opacity="0.6"/>
+      <rect x="288" y="96"  width="36" height="36" rx="7"/>
+      <rect x="0"   y="144" width="36" height="36" rx="7" opacity="0.35"/>
+      <rect x="144" y="144" width="36" height="36" rx="7"/>
+      <rect x="240" y="144" width="36" height="36" rx="7" opacity="0.6"/>
+    </g>
+  </g>
+</svg>
